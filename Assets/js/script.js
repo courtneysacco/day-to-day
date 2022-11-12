@@ -1,5 +1,5 @@
 // Today's date
-var todayDate = moment().format('dddd : MMMM Do, YYYY');
+var currentDate = moment().format('dddd : MMMM Do, YYYY');
 $("#currentDay").html(currentDate);
 
 // Save button
