@@ -32,6 +32,5 @@ THEN the saved events persist
 ![](assets/images/sched1.png)
 ![](assets/images/sched2.png)
 
-## Links
 <a href="https://courtneysacco.github.io/day-to-day/"
 target="_blank">Deployed Application</a>
