@@ -29,8 +29,8 @@ THEN the saved events persist
 ```
 
 ## Screenshots
-![](assets/images/sched1.png)
-![](assets/images/sched2.png)
+![](Assets/images/sched1.png)
+![](Assets/images/sched2.png)
 
 <a href="https://courtneysacco.github.io/day-to-day/"
 target="_blank">Deployed Application</a>
